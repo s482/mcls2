@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset = "utf-8"/>
+<title> Cover </title>
+</head>
+<body>
+<header>
+<!-- add-a-link-container -->
+<ul id="main-menu" class="first navigator">
+<li id="menu_item_001" class="menu_item_cat001"> <a href="www.cutandpincer.com">Home</a>
+</li>
+<li id="menu_item_002" class="menu_item_cat002"> <a href="www.cutandpincer.com/news">News</a>
+</li>
+<li id="menu_item_003" class="menu_item_cat003"> <a href="www.cutandpincer.com/List">List</a>
+</li>
+<li id="menu_item_004" class="menu_item_cat004"> <a href="www.cutandpincer.com/tour">Tour</a>
+</li>
+<li id="menu_item_005" class="menu_item_cat005"> <a href="www.cutandpincer.com/shop">Shop</a>
+</li>
+<li id="menu_item_006" class="menu_item_cat006"> <a href="www.cutandpincer.com/signup">Sign Up</a>
+</li>
+<li id="menu_item_007" class="menu_item_cat007"> <a href="www.cutandpincer.com/contact">Contact</a>
+</li>
+</ul>
+
+<ul id="main_menu" class="second_navigator">
+<li> <a target="_blank" href="cutandpincer.lnkto.amazonstore" title="amazon">
+<svg xmlns="http://www.w3.org/2000/svg" </svg> </a> </li>
+<li> <a target="_blank" href="cutandpincer.lnkto.youtube" title="youtube">
+<svg xmlns="http://www.w3.org/2000.svg" </svg> </a> </li>
+</ul>
+
+</header>
+<main id=main_item01>
+<h2>THE encircling GAME OF GO since 1000 bce </h2>
+
+<p> Objective: to score more points before your opponent by capturing points or by capturing pieces 
+
+
+Setup: There are a 180 pieces for both players the playing table has 361 points that you can play on. The first player is chosen randomly. The first player  plays the move that determines the orientation of the board
+For orientation the first move played is the top side.
+
+Winning the game: to win the game you must score more points than your opponent.  Players can do so by capturing stones or by creating eyes areas where if your opponent played they’d be automatically captured
+
+How to play: Two  players play the game. One choose black the other gets white.. Black plays first. 
+Star points are available for handicaps if needed.  There are three board sizes to choose from 9x9, 13x13 and 19x19. Once the first move is made players go back and forth consecutively. To capture a point you encircle it to capture stones on points you encircle it. You receive points both for the captured pieces and the open point. Capture more points than your opponent by moving faster. 
+
+Komi rule: given the the first play in the game has a slight advantage a 5.5  or 6.5 points is given to the second player
+</p>
+ <h2> Game properties</h2>
+<p> Once a piece is played it has four faces and four edges. Faces, top, bottom, left and right; Edges, top right, top left, bottom right and bottom left. Orientation is determined by the first move which will always be top. 
+Playing a move along the faces extends your path up, down, left, right. 
+ Playing a move along the edges of the piece extends your path from ex. Top right or from top to right like a curve bent towards the piece
+The game table(board) has four edges (corners) and four faces and a center. 
+
+</p>
+</main>
+</body>
+</html>
