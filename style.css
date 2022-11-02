@@ -3,3 +3,8 @@ div {display: block;
 .warning {
 background-color:gray ;
 }
+
+.container {
+  column-count: 3;
+  container-width: 20px;
+}
