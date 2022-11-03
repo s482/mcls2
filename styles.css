@@ -2,8 +2,20 @@ div {display: block;
 }
 .warning {
 background-color:red ;
+position: static;
+width: 100%;
+ 
 }
-
+.menu_item_001{ foat:right;
+}
+.menu_item_002{ float:right;
+}
+.menu_item_003{float: right;
+}
+.menu_item_004{float: right;
+}
+.menu_item_005{float: right;
+}
 .container {
   column-count: 3;
   container-width: 20px;
